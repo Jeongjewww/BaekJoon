@@ -1,3 +1,5 @@
+#--Silver 4 주유소--#
+
 num = int(input())
 dis = list(map(int, input().split()))
 price = list(map(int, input().split()))

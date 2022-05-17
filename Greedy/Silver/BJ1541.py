@@ -1,3 +1,5 @@
+#--Silver 2 잃어버린 괄호--#
+
 cal = input().split('-')
 _cal = []
 result = 0

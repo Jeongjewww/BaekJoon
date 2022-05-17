@@ -1,3 +1,5 @@
+#--Silver 3 ATM--#
+
 N = int(input())
 P = list(map(int, input().split()))
 sum = 0

@@ -1,3 +1,5 @@
+#--Bronze 1 설탕 배달--#
+
 def salt(N):
     if N%5==0: return N//5
     else:

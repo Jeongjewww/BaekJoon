@@ -1,3 +1,5 @@
+#--Bronze 4 전자레인지--#
+
 t = int(input())
 
 def result(t):

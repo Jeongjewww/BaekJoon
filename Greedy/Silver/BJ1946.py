@@ -1,3 +1,5 @@
+#--Silver 1 신입 사원--#
+
 import sys
 
 n = int(input())

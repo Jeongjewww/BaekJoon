@@ -1,3 +1,5 @@
+#--Silver 1 회의실 배정--#
+
 n = int(input())
 time = []
 for i in range(n):
